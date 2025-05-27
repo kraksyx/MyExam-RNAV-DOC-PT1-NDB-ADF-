@@ -202,9 +202,9 @@ const questions = [
   {
     "question": "When using ADF (i)BY NIGHT, the accuracy is (ii)LESS than (iii)BY DAY, because the surface wave is (iv) CONTAMINATED BY SKY WAVES",
     "options": [
-      "",
-      "",
-      "",
+      "Snow will NOT affect ADF",
+      "Snow will affect ADF",
+      "Snow will maybe affect ADF",
       ""
     ],
     "correct": 0
