@@ -157,7 +157,7 @@ const questions = [
       "200 Khz; A1A",
       "800 Khz; A1A"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "question": "The BFO:",
