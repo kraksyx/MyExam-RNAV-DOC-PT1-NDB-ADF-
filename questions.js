@@ -107,7 +107,7 @@ const questions = [
       "By night only",
       "Never"
     ],
-    "correct": 3
+    "correct": 1
   },
   {
     "question": "The accuracy of ADF within the DOC (designated OP coverage) by day is:",
